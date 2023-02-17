@@ -23,3 +23,9 @@ var em = { firstname: "lokokw",
     lastname: "wf",
     age: 2 };
 // console.log(em.age);it will execute but shows error while compiling
+var aaaaaaa = {
+    n: "lkod"
+};
+// try object ot array
+var arr = Object.values(e1);
+arr.forEach(function (x) { return console.log(x); });

@@ -40,3 +40,10 @@ lastname: "wf",
 age: 2};
 // console.log(em.age);it will execute but shows error while compiling
 
+let aaaaaaa:object|Array<string|number> ={
+    n:"lkod"
+}
+
+// try object ot array
+let arr:any[]=Object.values(e1);
+arr.forEach((x)=>console.log(x))
